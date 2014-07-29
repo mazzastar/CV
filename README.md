@@ -22,8 +22,8 @@ I´m a fast learning and enthusiastic guy who strongly believes in the power of 
 ### Skillset
 
   - Agile methodologies like TDD, BDD, Scrum
-  - Object­ oriented programming using: Ruby, Java, C++, C#
-  - Mathematical Programming using: Matlab, R
+  - Object­ oriented programming
+  - Ruby
   - Pair programming
   - Ruby on Rails
   - Sinatra 
@@ -38,6 +38,7 @@ I´m a fast learning and enthusiastic guy who strongly believes in the power of 
   - HTML5, CSS3, Bootstrap
   - Precompiled languages like CoffeeScript, HAML, SASS
   - APIs including Twilio, Stripe, Mailgun, Sendgrid, Google Maps, Traffic for London
+  - Other languages include:  Java, C++, C#, VB.NET, C, Matlab, R
 
 
 Education
@@ -46,20 +47,20 @@ Education
 ### [Makers Academy], London
 **Programming Bootcamp: March&mdash;June 2014**
 
-  - Highly selective 12 week full-time course.
-  - Focussed on Pair Programming, Test Driven Development and Agile practices.
-  - Teaching programming with Ruby, Ruby on Rails.
-  - Final project: [Data Symbiote] - A test-driven Ruby on Rails app developed in two weeks. It is an enhanced to-do list with an API to communicate with external applications that can make use of the data in more visual ways.
+  - Highly selective 12 week full-time course
+  - Focussed on Pair Programming, Test Driven Development and Agile practices
+  - Teaching programming with Ruby, Ruby on Rails
+  - Final project: [Data Symbiote] - A test-driven Ruby on Rails app developed in two weeks. It is an enhanced to-do list with an API to communicate with external applications that can make use of the data in more visual ways
 
 ### University of Bristol, UK
 **MSc (Merit) Data Mining, Machine Learning and High Performance Computing 2012&mdash; 2013**
  - Studied both the practical and theoretical parts of data mining and machine learning.
  - Modules included: Introduction to Machine Learning, Robotics, Computational Genomics, Pattern Analysis and Statistical Learning, Learning in Autonomous Systems, Artificial Intelligence
- - Final Dissertation was a self-conceived project about using data visualisation and gamification to turn personal task data into dynamic visualisations a user could interact with. The aim of the project was to see the effect on users' visibility of tasks and motivation levels.
+ - Final Dissertation was a self-conceived project about using data visualisation and gamification to turn personal task data into dynamic visualisations a user could interact with. The aim of the project was to see the effect on users' visibility of tasks and motivation levels
 
 ### University of Manchester, UK
 **BSc (Hons.) Computer Science  2003&mdash; 2006**
- - Final year project was about using genetic algorithms in the Analytical Hierarchy Process for decision making.
+ - Final year project was about using genetic algorithms in the Analytical Hierarchy Process for decision making
 
 ### University of Warwick, UK
 **BSc (Hons.) Mathematics, 1999&mdash; 2002***
@@ -70,9 +71,9 @@ Experience
 5 years in financial technology working in a variety of roles in the sector. 
 
 ### Analyst Developer (Trinity Risk and Core Team) / Brady plc **2010&mdash;2012**
-Working on various bug fixes and enhancements for the Trinity trading platform used for the commodities trading market. The key technologies used are: SQL, VB6 and VB.NET using Oracle databases
+Working on various bug fixes and enhancements for the Trinity trading platform used for the commodities trading market. The key technologies used are: SQL, VB6 and VB.NET using Oracle databases.
 
-  - Value-At-Risk - I became the main developer on this module used to hedge portfolio risks. Although the module was currently being used by clients, I was tasked with bringing the module into a more stable and usable state. This required analysing undocumented legacy code which required fixing and becoming familiar with Monte Carlo simulations
+  - Value-At-Risk : I became the main developer on this module used to hedge portfolio risks. Although the module was currently being used by clients, I was tasked with bringing the module into a more stable and usable state. This required analysing undocumented legacy code which required fixing and becoming familiar with Monte Carlo simulations
   - Correcting .NET conversions of VB6 legacy code and designs so functionality was consistent across both versions
   - Maintenance and enhancements to the Trinity system to tailor the software for existing clients
   - Writing and adapting bespoke reports for clients
@@ -81,17 +82,11 @@ Working on various bug fixes and enhancements for the Trinity trading platform u
 ### Technology Analyst / Lloyds Banking Group (HBOS Treasury Heritage) **2007&mdash;2010**
 Whilst on the technology track, I worked across multiple areas within the Treasury IT department. Each department requiring different skill sets and knowledge including:
 
-  - Risk BAU - Analysing and updating reports generated via Transact-SQL on Sybase databases. - Trading Systems BAU and Support - Murex & Summit - Reports scripting, bug fixes and enhancements in C++, Perl and SQL - Systems checks and automated scripting - Analysis work of systems
-  - Small Applications - ASP.Net development in C# and functionality testing
-                       - Capturing business requirements from end users
-  - Super Structure - Maintenance of the internal XML messaging system used in the Treasury and Trading systems based on WebSphere MQ technology
-Small development work included changing the single-threaded queue loading system written in Java to be multi-threaded whilst investigating the possibility of simplifying the XML schemas
-Writing schemas for transforming generic financial data into application-specific formats
-	Analytics Pricing Support (Front Office Risk and PnL reporting)
-Optimisation, analysis, testing and running of batch jobs for front/middle office
-Basic Windows PowerShell scripting
-Troubleshooting traders/middle office technical issues concerning intraday spreadsheets and intraday Risk and PnL valuations calculated on a DataSynapse GridServer implementation
-Documentation of morning/evening/overnight batch processes and system checks
+  - Risk BAU : Analysing and updating reports generated via Transact-SQL on Sybase databases. 
+  - Trading Systems BAU and Support : Murex & Summit - Reports scripting; Bug fixes and enhancements in C++, Perl and SQL; Systems checks and automated scripting; Analysis work of systems
+  - Small Applications : ASP.Net development in C# and functionality testing; Capturing business requirements from end users
+  - Super Structure : Maintenance of the internal XML messaging system used in the Treasury and Trading systems based on WebSphere MQ technology; Small development work included changing the single-threaded queue loading system written in Java to be multi-threaded whilst investigating the possibility of simplifying the XML schemas; Writing schemas for transforming generic financial data into application-specific formats
+  - Analytics Pricing Support (Front Office Risk and PnL reporting) : Optimisation, analysis, testing and running of batch jobs for front/middle office; Basic Windows PowerShell scripting; Troubleshooting traders/middle office technical issues concerning intraday spreadsheets and intraday Risk and PnL valuations calculated on a DataSynapse GridServer implementation; Documentation of morning/evening/overnight batch processes and system checks
 
 
 Interests
