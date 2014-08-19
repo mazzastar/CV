@@ -8,9 +8,9 @@ A Makers Academy graduate seeking employment as Junior Developer in a great comp
 Recent code
 -------------
 
-| [Instagram] | [Bookmark Manager] | [Sudoku] |
+| [DataSymbiote] | [Instagram] | [Bookmark Manager] |
 |:--------------- |:-------- |:--------- |
-| A test-driven Ruby on Rails app developed in two weeks. It was intended that personal task data could be entered and used in such a way that was more visual with the hope that an intuitive underlying sense of the current state of tasks would be felt by the user| Ruby on Rails Instagram clone that is focussed on posting pictures. | Basic Sinatra site that allows a user to play Sudoku. |
+| A test-driven Ruby on Rails app developed in two weeks. It was intended that personal task data could be entered and used in such a way that was more visual with the hope that an intuitive underlying sense of the current state of tasks would be felt by the user| Ruby on Rails Instagram clone that is focussed on posting pictures. | Basic Sinatra site that allows a user to enter create bookmarks. |
 
 
 Web development
@@ -111,7 +111,9 @@ Contact me
 - [LinkedIn]
 - [Github]
 
-  [Bookmark Manager]:https://github.com/NicoSa/Chitter
+  [Bookmark Manager]:https://github.com/mazzastar/BookmarkManager
+  [Instagram]:https://github.com/mazzastar/InstagramClone
+  [DataSymbiote]:https://github.com/mazzastar/DataSymbioteToDo
 
   [Makers Academy]:http://www.makersacademy.com
   [alexjywong@gmail.com]: mailto:alexjywong@gmail.com
