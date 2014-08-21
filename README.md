@@ -16,7 +16,7 @@ Recent code
 Web development
 ---------------
 
-I´m a fast learning and enthusiastic guy who strongly believes in the power of tech. After a few years working in financial technology, I decided the world of startups would be a new challenge as well as invigorate my interest in software craftmanship. I decided to update my current skillset regarding programming practices and accelerate my learning-process by joining Makers Academy in London.  
+I´m a fast learning and enthusiastic guy who strongly believes in the power of tech. After a few years working in financial technology, I decided the world of startups would be a new challenge as well as invigorate my interest in software craftmanship practices. I decided to update my current skillset regarding programming practices and accelerate my learning-process by joining Makers Academy in London.  
 
 
 ### Skillset
