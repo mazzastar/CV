@@ -93,8 +93,9 @@ Interests
 ---------
 
 - Code as a form of art
-- Statistical Techniques in Pattern Recognition
+- The use of statistical techniques in Pattern Recognition
 - Machine Learning
+- Optimisation methods
 - Agile practices
 - Lean startups
 - Lifelong learning
