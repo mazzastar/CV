@@ -100,7 +100,7 @@ Interests
 - Lean startups
 - Lifelong learning
 - Music & Entertainment
-- Internal Martial Arts
+- Internal Martial Arts 
 - Meditation
 
 Contact me
