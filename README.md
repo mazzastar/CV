@@ -70,6 +70,16 @@ Experience
 
 5 years in financial technology working in a variety of roles in the sector. 
 
+### Quantitative Developer/HPC Engineer / Lloyds of London **2014&mdash;present**
+
+A recent recruit to the HPC team at Lloyds of London in a role developing and supporting their grid environment intended to perform risk calculations. Tasks include: 
+Powershell scripting for reporting and grid node tools/diagnostics
+Analysis and Optimisation of job runs
+Writing model code specified by Actuarial team
+Investigation of system errors and bug fixes
+Disaster Recovery documentation and preparation
+
+
 ### Analyst Developer (Trinity Risk and Core Team) / Brady plc **2010&mdash;2012**
 Working on various bug fixes and enhancements for the Trinity trading platform used for the commodities trading market. The key technologies used are: SQL, VB6 and VB.NET using Oracle databases.
 
